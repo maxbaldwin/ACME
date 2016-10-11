@@ -1,0 +1,20 @@
+{
+  "name": "lib",
+  "homepage": "https://github.com/maxbaldwin/ACME",
+  "authors": [
+    "Max Baldwin <maxrbaldwin@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
